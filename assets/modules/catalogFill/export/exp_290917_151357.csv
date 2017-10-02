@@ -1,0 +1,9 @@
+Категория;Подкатегория1;Наименование;"Краткое описание";Контент;Цена;"Кол-во на складе";Картинка
+"Первые блюда";;"Блюдо номер1";"Краткое описание";"<p>Полно описание + видео</p>
+<p style=""text-align: center;""><iframe title="""" src=""https://www.youtube.com/embed/Uj2-Kk4ejG8?wmode=opaque&amp;theme=dark"" width=""560"" height=""315"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>";;;
+"Первые блюда";;"Блюдо номер 2";"краткое описание";"<div style=""text-align: center;"">полное описание рецепта<br /><br /><iframe title="""" src=""https://www.youtube.com/embed/8k0u0OSRMeQ?wmode=opaque&amp;theme=dark"" width=""560"" height=""315"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></div>";;;
+"Первые блюда";;"Блюдо номер 4";"краткое описание";"<div style=""text-align: center;"">полное описание рецепта<br /><br /><iframe title="""" src=""https://www.youtube.com/embed/8k0u0OSRMeQ?wmode=opaque&amp;theme=dark"" width=""560"" height=""315"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></div>";;;
+"Первые блюда";;"Блюдо номер 3";"Краткое описание";"<p>Полно описание + видео</p>
+<p style=""text-align: center;""><iframe title="""" src=""https://www.youtube.com/embed/Uj2-Kk4ejG8?wmode=opaque&amp;theme=dark"" width=""560"" height=""315"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>";;;
+Десерты;;Десерт1;"краткое описание";"полное описание";;;
+Десерты;;"Десерт 2";"краткое описание";"полное описание";;;
